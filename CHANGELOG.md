@@ -5,6 +5,7 @@
 ### 1.4.0 (2016-09-21)
 
 - Updated Node.js to 4.5.0 for Meteor 1.4.1 - see http://info.meteor.com/blog/announcing-meteor-1.4.1 for more details
+- Use Docker Hub
 
 ### 1.3.0 (2016-08-07)
 
