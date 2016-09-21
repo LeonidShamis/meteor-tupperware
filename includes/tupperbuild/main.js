@@ -77,7 +77,7 @@ function printBanner (done) {
       ""
     ].join("\n")
   );
-  log.info("github.com/chriswessels/meteor-tupperware (tupperbuild v" + pkgjson.version + ")\n");
+  log.info("github.com/LeonidShamis/meteor-tupperware (tupperbuild v" + pkgjson.version + ")\n");
 
   done();
 }

@@ -1,7 +1,7 @@
 FROM          debian:jessie
-MAINTAINER    Chris Wessels (https://github.com/chriswessels)
+MAINTAINER    Leonid Shamis (https://github.com/LeonidShamis)
 
-ENV           NODE_VERSION="4.4.7" PHANTOMJS_VERSION="2.1.1" IMAGEMAGICK_VERSION="8:6.8.9.9-5"
+ENV           NODE_VERSION="4.5.0" PHANTOMJS_VERSION="2.1.1" IMAGEMAGICK_VERSION="8:6.8.9.9-5"
 
 COPY          includes /tupperware
 
